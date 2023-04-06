@@ -8,7 +8,8 @@ I received MS Degree in Electonrics and Electrical Engineering at Yonsei Univers
 - 4 Patents and TRIZ Consultant Certificate(Level II, III) -02/02325/A-41, 03/00972/A-03
 - 12 years working in Korea and 7 years working in Japan (Permanent Visa, JLPT N2 certificate)                                
 - Recommendation engine and advertisement platform (SSP, DSP) architecture design
-- ILT - Cloudera Custom Training - 2970368 ( 2022 Hadoop & Spark Specialist )
+- ILT - Cloudera Custom Training - 2970368 ( 2022 Hadoop & Spark Specialist)
 - Customer Satisfaction, Passionately Professional
+
 
 
